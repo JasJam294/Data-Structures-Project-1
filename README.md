@@ -15,4 +15,10 @@
 - emailAddress
 - salary
 
+## Execute program by running in terminal with C++ Complier such as MinGW-w64
+Compile: 
+  g++ Project1.cpp -o Project1.exe
+
+Run:
+  .\Project1.exe
 
